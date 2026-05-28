@@ -5,4 +5,5 @@ elif temperatura >=18 and temperatura <= 30:
     print ("o tempo esta agradavel")
 elif temperatura > 30:
     print("o tempo esta calor")
+    print("alterado por outra pessoa")
     
